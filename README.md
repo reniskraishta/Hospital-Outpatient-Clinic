@@ -1,4 +1,3 @@
 # Hospital-Outpatient-Clinic
-Team project for Database Management Systems: ER diagrams, relational schema, indexes and 25 managerial SQL queries for a hospital outpatient clinic.
+Team project for Database Management Systems (Epoka University). Complete relational database for a hospital outpatient clinic: ER diagrams, Relational Schema, CREATE/INSERT scripts, Indexes and 25 managerial SQL queries. Includes a 34-slide presentation, presented in class to a jury of professors.
 
-PowerPoint Presentation - [DBMS-OutpatientClinic.pdf](https://github.com/user-attachments/files/34190930/DBMS-OutpatientClinic.pdf)
